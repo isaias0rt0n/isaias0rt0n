@@ -7,4 +7,4 @@ I'm Isaias do Carmo from Brazil. I'm a computer engineer student and cybersecuri
 
 - 🔭 I’m currently to deepen my knowledges on Python and C programming languages.
 - 🌱 I’m currently learning about PFSense, reverse engineering, Pentest and computer forensics.
-- 👯 I’m looking to collaborate on Cybersecurity.
+- 👯 I’m looking to collaborate with Cybersecurity.
